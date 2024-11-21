@@ -7,7 +7,7 @@ This is the implementation of *[Win-Win: A Privacy-Preserving Federated Framewor
 To train P2FCDR, you can run the following command:
 
 ```bash
-python -u main.py \
+python  main.py \
         --num_round 20 \
         --local_epoch 3 \
         --eval_interval 1 \
