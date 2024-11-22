@@ -1,6 +1,6 @@
 ## 1 Introduction
 
-This is the implementation of *[Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation]* in SecretFlow. *[Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation]* proposes P2FCDR, a novel federated cross-domain recommendation framework.
+This is the implementation of *[Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation]* in SecretFlow. *[Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation]* proposes P2FCDR, a novel federated cross-domain recommendation .
 
 ## 2 Train
 
